@@ -1,1 +1,12 @@
 .DS_Store
+.Rproj.user
+*.aux
+*.fls
+*.dvi
+*.nav
+*.out
+*.gz
+*.toc
+*.log
+*.vrb
+*.snm
